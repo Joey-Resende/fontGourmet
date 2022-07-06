@@ -1,8 +1,32 @@
-.faixa-superior {
-    background-color: yellow;
+body {
+    background-color: black;
+}
+
+section#faixa {
+    background-color: black;
+}
+
+h1 {
+    color: white;
 }
 
 
-main {
+h2 {
+    color: white;
+}
+
+h5 {
+    color: #FEC239;
+}
+
+p {
+    color: white;
+}
+
+a {
+    color: white;
+}
+
+footer {
     background-color: black;
 }
