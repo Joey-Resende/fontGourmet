@@ -1,3 +1,2 @@
-# frontGourmet
-Repositório para projeto do curso de java
+# Gourmet Panificadora
 Parte frontend do projeto que estamos desenvolvendo no curso de Java. 
